@@ -1,4 +1,4 @@
-## Article: A Step-by-Step Guide to Predicting Employee Attrition with CRISP-DM
+## A Step-by-Step Guide to Predicting Employee Attrition with CRISP-DM
 
 The CRISP-DM (Cross-Industry Standard Process for Data Mining) model is a 6-phase cyclical process that provides a robust framework for managing data science projects.
 
