@@ -7,8 +7,6 @@
 
 This repository is an academic project demonstrating and comparing three foundational data science methodologies: **CRISP-DM**, **KDD**, and **SEMMA**.
 
-**Medium Article Link:** https://medium.com/@abhishek.darji/a-step-by-step-guide-to-predicting-employee-attrition-with-crisp-dm-0d08e5f9003a
-**Video Link:**
 
 To properly showcase the unique focus of each framework, this repository contains three distinct, end-to-end projects. Each project is self-contained in its own directory, complete with a detailed "Medium-style" article (in its `README.md`) and a full Google Colab notebook (`.ipynb`) implementation.
 
