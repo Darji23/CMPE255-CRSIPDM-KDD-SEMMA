@@ -2,6 +2,10 @@
 
 The CRISP-DM (Cross-Industry Standard Process for Data Mining) model is a 6-phase cyclical process that provides a robust framework for managing data science projects.
 
+**Medium Article Link:** https://medium.com/@abhishek.darji/a-step-by-step-guide-to-predicting-employee-attrition-with-crisp-dm-0d08e5f9003a
+
+**Video Link:**
+
 **Project Focus:** Employee Attrition Prediction using IBM HR Analytics Dataset
 
 ### 1. Business Understanding
